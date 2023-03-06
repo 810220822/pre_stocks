@@ -1,8 +1,0 @@
-code,klt,loss,mape,val_loss,val_mape,modelname
-c000421,103,0.2,9.94,0.13,3.21,/kaggle/working/models_2/103/103/0.20_000421_43_mem_3_ltsm_1_dense_1_unit_64.h5
-c000800,103,0.69,30.98,0.15,3.68,/kaggle/working/models_2/103/103/0.69_000800_27_mem_3_ltsm_1_dense_1_unit_64.h5
-c000800,103,0.69,40.15,0.1,2.41,/kaggle/working/models_2/103/103/0.69_000800_35_mem_3_ltsm_1_dense_1_unit_64.h5
-c000797,101,0.04,4.84,0.01,1.57,/kaggle/working/models_2/101/101/0.04_000797_19_mem_3_ltsm_1_dense_1_unit_64.h5
-c000797,101,0.04,4.73,0.08,7.31,/kaggle/working/models_2/101/101/0.04_000797_21_mem_3_ltsm_1_dense_1_unit_64.h5
-c002652,102,0.14,5.84,0.02,2.98,/kaggle/working/models_2/102/102/0.14_002652_32_mem_3_ltsm_1_dense_1_unit_64.h5
-c002652,102,0.14,6.03,0.13,6.85,/kaggle/working/models_2/102/102/0.14_002652_37_mem_3_ltsm_1_dense_1_unit_64.h5
