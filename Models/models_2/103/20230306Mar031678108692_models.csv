@@ -1,3 +1,0 @@
-code,klt,loss,mape,val_loss,val_mape,modelname
-c002703,103,3.39,14.75,5.8,16.52,/kaggle/working/models_2/103/3.39_002703_13_mem_3_ltsm_1_dense_1_unit_64.h5
-c002911,103,1.71,10.83,9.13,15.14,/kaggle/working/models_2/103/1.71_002911_22_mem_3_ltsm_1_dense_1_unit_64.h5
