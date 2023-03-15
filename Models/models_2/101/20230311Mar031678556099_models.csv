@@ -1,6 +1,0 @@
-code,klt,loss,mape,val_loss,val_mape,modelname
-c603917,101,1.41,7.32,66.75,19.17,/content/drive/MyDrive/stock/data/working/models_2/101/1.41_603917_46_mem_3_ltsm_1_dense_1_unit_64.h5
-c603917,101,1.41,7.29,63.41,18.56,/content/drive/MyDrive/stock/data/working/models_2/101/1.41_603917_49_mem_3_ltsm_1_dense_1_unit_64.h5
-c600686,101,0.79,48.55,0.1,2.68,/content/drive/MyDrive/stock/data/working/models_2/101/0.79_600686_26_mem_3_ltsm_1_dense_1_unit_64.h5
-c002134,101,0.63,6.93,0.19,3.69,/content/drive/MyDrive/stock/data/working/models_2/101/0.63_002134_31_mem_3_ltsm_1_dense_1_unit_64.h5
-c003023,101,9.07,11.18,52.52,22.38,/content/drive/MyDrive/stock/data/working/models_2/101/9.07_003023_42_mem_3_ltsm_1_dense_1_unit_64.h5
