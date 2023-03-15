@@ -1,0 +1,1 @@
+epoch,loss,mape,val_loss,val_mape,code,klt,the_mem_days,the_lstm_layers,the_dense_layers,the_units
